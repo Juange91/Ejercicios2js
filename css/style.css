@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Secular+One&display=swap');
+body{
+    background: url(../images/img.jpg) ;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;
+font-family: 'Secular One', sans-serif;
+
+}
+button{
+
+    padding: 12px 60px;
+    margin: 30px;
+    font-size: 24px;
+    background: white;
+    color: #0496ff;
+    border-radius: 11px;
+    border: 2px solid #ffff;
+    cursor: pointer;
+    transition: 0.5s;
+    font-family: 'Dela Gothic One', cursive;
+    font-family: 'Secular One', sans-serif;
+}
+button:hover{
+
+    background: #0496ff;
+    color: white;
+
+
+}
+h1{
+    color: #0496ff;
+    font-size: 60px;
+}
+h2{
+    color: #0496ff;
+    font-size: 40px;
+   
+}
+h3{
+    color: #0496ff;
+    font-size: 60px;  
+}
